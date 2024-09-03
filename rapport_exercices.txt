@@ -1,0 +1,127 @@
+===== 📊 Rapport des Exercices 📊 =====
+
+📂 **Page_6**
+============
+   • P6_Ex1.py: ✅ Terminé
+   • P6_Ex2.py: ❌ Non terminé
+   • P6_Ex3.py: ❌ Non terminé
+   • P6_Ex4.py: ❌ Non terminé
+   • P6_Ex5.py: ❌ Non terminé
+   • P6_Ex6.py: ❌ Non terminé
+   • P6_Ex7.py: ❌ Non terminé
+   • P6_Ex8.py: ❌ Non terminé
+   • P6_Ex9.py: ❌ Non terminé
+
+📂 **Page_7**
+============
+   • P7_Ex1.py: ❌ Non terminé
+   • P7_Ex2.py: ❌ Non terminé
+   • P7_Ex3.py: ❌ Non terminé
+   • P7_Ex4.py: ❌ Non terminé
+   • P7_Ex5.py: ❌ Non terminé
+
+📂 **Page_8**
+============
+   • P8_Ex1.py: ❌ Non terminé
+
+📂 **Page_9**
+============
+   • P9_Ex1.py: ❌ Non terminé
+
+📂 **Page_11**
+=============
+   • P11_Ex1.py: ❌ Non terminé
+   • P11_Ex2.py: ❌ Non terminé
+   • P11_Ex3.py: ❌ Non terminé
+   • P11_Ex4.py: ❌ Non terminé
+   • P11_Ex5.py: ❌ Non terminé
+
+📂 **Page_12**
+=============
+   • P12_Ex1.py: ❌ Non terminé
+   • P12_Ex2.py: ❌ Non terminé
+   • P12_Ex3.py: ❌ Non terminé
+   • P12_Ex4.py: ❌ Non terminé
+
+📂 **Page_13**
+=============
+   • P13_Ex1.py: ❌ Non terminé
+
+📂 **Page_14**
+=============
+   • P14_Ex1.py: ❌ Non terminé
+
+📂 **Page_15**
+=============
+   • P15_Ex1.py: ❌ Non terminé
+
+📂 **Page_16**
+=============
+   • P16_Ex1.py: ❌ Non terminé
+   • P16_Ex2.py: ❌ Non terminé
+   • P16_Ex3.py: ❌ Non terminé
+   • P16_Ex4.py: ❌ Non terminé
+   • P16_Ex5.py: ❌ Non terminé
+   • P16_Ex6.py: ❌ Non terminé
+   • P16_Ex7.py: ❌ Non terminé
+   • P16_Ex8.py: ❌ Non terminé
+
+📂 **Page_17**
+=============
+   • P17_Ex1.py: ❌ Non terminé
+   • P17_Ex2.py: ❌ Non terminé
+   • P17_Ex3.py: ❌ Non terminé
+   • P17_Ex4.py: ❌ Non terminé
+   • P17_Ex5.py: ❌ Non terminé
+   • P17_Ex6.py: ❌ Non terminé
+   • P17_Ex7.py: ❌ Non terminé
+   • P17_Ex8.py: ❌ Non terminé
+
+📂 **Page_19**
+=============
+   • P19_Ex1.py: ❌ Non terminé
+   • P19_Ex2.py: ❌ Non terminé
+
+📂 **Page_20**
+=============
+   • P20_Ex1.py: ❌ Non terminé
+   • P20_Ex2.py: ❌ Non terminé
+   • P20_Ex3.py: ❌ Non terminé
+   • P20_Ex4.py: ❌ Non terminé
+   • P20_Ex5.py: ❌ Non terminé
+
+📂 **Page_21**
+=============
+   • P21_Ex1.py: ❌ Non terminé
+
+📂 **Page_22**
+=============
+   • P22_Ex1.py: ❌ Non terminé
+
+📂 **Page_23**
+=============
+   • P23_Ex1.py: ❌ Non terminé
+
+📂 **Page_24**
+=============
+   • P24_Ex1.py: ❌ Non terminé
+   • P24_Ex2.py: ❌ Non terminé
+   • P24_Ex3.py: ❌ Non terminé
+   • P24_Ex4.py: ❌ Non terminé
+   • P24_Ex5.py: ❌ Non terminé
+
+📂 **Page_25**
+=============
+   • P25_Ex1.py: ❌ Non terminé
+   • P25_Ex2.py: ❌ Non terminé
+   • P25_Ex3.py: ❌ Non terminé
+   • P25_Ex4.py: ❌ Non terminé
+   • P25_Ex5.py: ❌ Non terminé
+
+📂 **Page_26**
+=============
+   • P26_Ex1.py: ❌ Non terminé
+   • P26_Ex2.py: ❌ Non terminé
+   • P26_Ex3.py: ❌ Non terminé
+   • P26_Ex4.py: ❌ Non terminé
+
