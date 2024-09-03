@@ -3,10 +3,10 @@
 📂 **Page_6**
 ============
    • P6_Ex1.py: ✅ Terminé
-   • P6_Ex2.py: ❌ Non terminé
-   • P6_Ex3.py: ❌ Non terminé
-   • P6_Ex4.py: ❌ Non terminé
-   • P6_Ex5.py: ❌ Non terminé
+   • P6_Ex2.py: ✅ Terminé
+   • P6_Ex3.py: ✅ Terminé
+   • P6_Ex4.py: ✅ Terminé
+   • P6_Ex5.py: ✅ Terminé
    • P6_Ex6.py: ❌ Non terminé
    • P6_Ex7.py: ❌ Non terminé
    • P6_Ex8.py: ❌ Non terminé
