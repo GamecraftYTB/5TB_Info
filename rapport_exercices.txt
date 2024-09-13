@@ -28,14 +28,14 @@
 =============
    • P11_Ex2.py: ✅ Terminé
    • P11_Ex3.py: ✅ Terminé
-   • P11_Ex4.py: ❌ Non terminé
+   • P11_Ex4.py: ✅ Terminé
    • P11_Ex5.py: ❌ Non terminé
    • liste1.py: ✅ Terminé
 
 📂 **Page_12**
 =============
-   • P12_Ex1.py: ❌ Non terminé
-   • P12_Ex2.py: ❌ Non terminé
+   • P12_Ex1.py: ✅ Terminé
+   • P12_Ex2.py: ✅ Terminé
    • P12_Ex3.py: ❌ Non terminé
    • P12_Ex4.py: ❌ Non terminé
 
