@@ -9,7 +9,6 @@ exercices = {
     "Page 6": ["P6_Ex1.py", "P6_Ex2.py", "P6_Ex3.py", "P6_Ex4.py", "P6_Ex5.py", "P6_Ex6.py", "P6_Ex7.py", "P6_Ex8.py", "P6_Ex9.py"],
     "Page 7": ["P7_Ex1.py", "P7_Ex2.py", "P7_Ex3.py", "P7_Ex4.py", "P7_Ex5.py"],
     "Page 8": ["P8_Ex1.py"],
-    "Page 9": ["P9_Ex1.py"],
     "Page 11": ["P11_Ex1.py", "P11_Ex2.py", "P11_Ex3.py", "P11_Ex4.py", "P11_Ex5.py"],
     "Page 12": ["P12_Ex1.py", "P12_Ex2.py", "P12_Ex3.py", "P12_Ex4.py"],
     "Page 13": ["P13_Ex1.py"],

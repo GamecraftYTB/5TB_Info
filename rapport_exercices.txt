@@ -17,24 +17,20 @@
    • P7_Ex1.py: ✅ Terminé
    • P7_Ex2.py: ✅ Terminé
    • P7_Ex3.py: ✅ Terminé
-   • P7_Ex4.py: ❌ Non terminé
-   • P7_Ex5.py: ❌ Non terminé
+   • P7_Ex4.py: ✅ Terminé
+   • P7_Ex5.py: ✅ Terminé
 
 📂 **Page_8**
 ============
-   • P8_Ex1.py: ❌ Non terminé
-
-📂 **Page_9**
-============
-   • P9_Ex1.py: ❌ Non terminé
+   • P8_Ex1.py: ✅ Terminé
 
 📂 **Page_11**
 =============
-   • P11_Ex1.py: ❌ Non terminé
-   • P11_Ex2.py: ❌ Non terminé
-   • P11_Ex3.py: ❌ Non terminé
+   • P11_Ex2.py: ✅ Terminé
+   • P11_Ex3.py: ✅ Terminé
    • P11_Ex4.py: ❌ Non terminé
    • P11_Ex5.py: ❌ Non terminé
+   • liste1.py: ✅ Terminé
 
 📂 **Page_12**
 =============
