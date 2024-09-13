@@ -14,9 +14,9 @@
 
 📂 **Page_7**
 ============
-   • P7_Ex1.py: ❌ Non terminé
-   • P7_Ex2.py: ❌ Non terminé
-   • P7_Ex3.py: ❌ Non terminé
+   • P7_Ex1.py: ✅ Terminé
+   • P7_Ex2.py: ✅ Terminé
+   • P7_Ex3.py: ✅ Terminé
    • P7_Ex4.py: ❌ Non terminé
    • P7_Ex5.py: ❌ Non terminé
 
